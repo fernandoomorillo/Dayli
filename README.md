@@ -63,3 +63,6 @@ Tanto si eres estudiante como profesional o simplemente quieres tener una vida m
 🛠️ Tecnologías
 
 La arquitectura tecnológica de Dayli se documentará a medida que avance el desarrollo.
+
+
+Los alumnos de este proyecto son: Antonio Manuel, Fernando y Luis.
