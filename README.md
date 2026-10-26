@@ -1,6 +1,6 @@
 # Dayli
 
-Dayli es una aplicación de productividad diseñada para ayudarte a tomar el control de tu día a día.
+Dayli es una aplicación de productividad diseñada para ayudarte a tomar el control de tu día a día
 
 Desde organizar tus tareas hasta planificar tus horarios, desarrollar hábitos y realizar un seguimiento de tus objetivos, Dayli reúne todo lo que necesitas en una experiencia sencilla, intuitiva y coherente.
 
